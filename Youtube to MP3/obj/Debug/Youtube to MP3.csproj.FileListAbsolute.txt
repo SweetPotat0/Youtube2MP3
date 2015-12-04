@@ -1,0 +1,13 @@
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\bin\Debug\Youtube to MP3.exe.config
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\bin\Debug\Youtube to MP3.exe
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\bin\Debug\Youtube to MP3.pdb
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube to MP3.csprojResolveAssemblyReference.cache
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube_to_MP3.Properties.Resources.resources
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube to MP3.csproj.GenerateResource.Cache
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube to MP3.exe
+c:\users\guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube to MP3.pdb
+C:\Users\Guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube_to_MP3.Browser.resources
+C:\Users\Guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube_to_MP3.Downloads_List.resources
+C:\Users\Guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\obj\Debug\Youtube_to_MP3.PickName.resources
+C:\Users\Guy\documents\visual studio 2013\Projects\Youtube to MP3\Youtube to MP3\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
